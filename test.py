@@ -1,1 +1,2 @@
-print("hello word")
+nom = input("Quel est votre nom ? ")
+nom
